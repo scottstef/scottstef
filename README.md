@@ -1,4 +1,4 @@
-##Scott Stefanoski
+Scott Stefanoski
 410.387.6918 
 scottstefanoski@gmail.com
 https://scottstef.github.io/scottstef/
