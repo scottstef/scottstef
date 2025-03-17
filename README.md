@@ -1,15 +1,15 @@
 # Scott Stefanoski
 
-410.387.6918 
-scottstefanoski@gmail.com
-https://scottstef.github.io/scottstef/
+410.387.6918 \
+scottstefanoski@gmail.com \
+https://scottstef.github.io/scottstef/ \
 
 # Objective: 
 Actively looking for a position that takes advantage of my leadership, technical, and managerial skills in a challenging, fast paced environment.
 
 # Education:  
-The Johns Hopkins University, Master of Science Information Technology 2005
-University of Phoenix, Bachelor of Science Information Technology 2003
+- The Johns Hopkins University, Master of Science Information Technology 2005
+- University of Phoenix, Bachelor of Science Information Technology 2003
 
 # Certification: 
 Red Hat Certified System Administrator id: 240-004-143
