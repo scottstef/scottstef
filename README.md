@@ -12,8 +12,8 @@ Actively looking for a position that takes advantage of my leadership, technical
 - University of Phoenix, Bachelor of Science Information Technology 2003
 
 # Certification: 
-Red Hat Certified System Administrator id: 240-004-143
-                       Preparing for the Red Hat Certified Engineer exam expected pass date Febuary 2025 
+<li>Red Hat Certified System Administrator id: 240-004-143</li>
+<li>Preparing for the Red Hat Certified Engineer exam expected pass date Febuary 2025 </li>
 
 # Relavant Experience:
 ## Skyline Technology Solutions:  Senior Engineer June 2023-Present
