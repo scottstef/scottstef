@@ -5,9 +5,11 @@ scottstefanoski@gmail.com \
 https://scottstef.github.io/scottstef/ \
 
 # Objective: 
-Actively looking for a position that takes advantage of my leadership, technical, and managerial skills in a challenging, fast paced environment.
+Phd student Actively looking for a position that takes advantage of my leadership, technical, and managerial skills in a challenging, fast paced environment.
 
-# Education:  
+# Education:
+- UMES- Phd candidate working towards Phd in Applied Computer Science focusing on Data Science
+- Eastern University- currently working on Masters in Data Science
 - The Johns Hopkins University, Master of Science Information Technology 2005
 - University of Phoenix, Bachelor of Science Information Technology 2003
 
