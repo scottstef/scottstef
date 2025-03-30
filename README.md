@@ -16,6 +16,7 @@ Phd student Actively looking for a position that takes advantage of my leadershi
 # Certification: 
 <li>Red Hat Certified System Administrator id: 240-004-143</li>
 <li>Preparing for the Red Hat Certified Engineer exam expected pass date Febuary 2025 </li>
+<li>Academy Accreditation - Databricks Fundamentals</li>
 
 # Relavant Experience:
 ## Skyline Technology Solutions:  Senior Engineer June 2023-Present
