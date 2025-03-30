@@ -2,7 +2,7 @@
 
 410.387.6918 \
 scottstefanoski@gmail.com \
-https://scottstef.github.io/scottstef/ \
+https://scottstef.github.io/scottstef/ 
 
 # Objective: 
 Phd student Actively looking for a position that takes advantage of my leadership, technical, and managerial skills in a challenging, fast paced environment.
